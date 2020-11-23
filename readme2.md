@@ -8,8 +8,10 @@ Hãy cho biết cách sử dụng Google và các site khác để tìm kiếm t
  Trần Minh Khương 17520656
  
  # Giới thiệu:
- Trong thời buổi công nghệ số hiện nay, mọi hoạt động tiếp cận thông tin hầu hết thông qua việc sử dụng các search engine (công cụ tìm kiếm) trên Internet. Một trong những search engine phổ biến nhất chính là Google, nơi phục vụ lên tới hàng tỉ lượt tìm kiếm mỗi ngày trên phạm vi toàn thế giới. Thế nhưng, việc tìm kiếm thông tin một cách hiệu quả và có phương pháp đóng vai trò hết sức quan trọng, đặc biệt là đối với những nhà nghiên cứu khoa học trong việc tìm kiếm các paper (bài báo) hội nghị, tạp chí quốc tế để làm nguồn tham khảo. Sau đây, nhóm chúng em xin liệt kê một số cách thông dụng nhất khi sử dụng Google áp dụng vào việc tìm kiếm các paper phục vụ cho mục đích nghiên cứu khoa học của mình:
+ Trong thời buổi công nghệ số hiện nay, mọi hoạt động tiếp cận thông tin hầu hết thông qua việc sử dụng các search engine (công cụ tìm kiếm) trên Internet. Một trong những search engine phổ biến nhất chính là Google, nơi phục vụ lên tới hàng tỉ lượt tìm kiếm mỗi ngày trên phạm vi toàn thế giới. Thế nhưng, việc tìm kiếm thông tin một cách hiệu quả và có phương pháp đóng vai trò hết sức quan trọng, đặc biệt là đối với những nhà nghiên cứu khoa học trong việc tìm kiếm các paper (bài báo) hội nghị, tạp chí quốc tế để làm nguồn tham khảo. Sau đây, nhóm chúng em xin liệt kê một số cách thông dụng nhất khi sử dụng Google áp dụng vào việc tìm kiếm các paper phục vụ cho mục đích nghiên cứu khoa học:
  # 1. Sử dụng dấu " " để tìm kiếm nội dung từ khóa theo thứ tự mong muốn:
- addassd
+ Giả sử ta muốn tìm kiếm nội dung mang tên Fuzzy logic controller, nếu ta đặt trong dấu ngoặc kép "Fuzzy logic controller" thì Google sẽ trả về các kết quả chứa nội dung đó theo đúng thứ tự ta gõ, còn ngược lại thì Google có thể trả về các kết quả Control fuzzy logic hoặc Logic Control Fuzzy, không đúng như thứ tự ta gõ ban đầu.
+ # 2. Sử dụng dấu - để loại trừ nội dung không muốn tìm tới:\
+ a
  
  
