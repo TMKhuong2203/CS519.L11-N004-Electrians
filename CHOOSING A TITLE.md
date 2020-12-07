@@ -18,7 +18,7 @@ Việc viết một bài báo nghiên cứu khoa học yêu cầu người viế
  + Tạo sự tò mò cho người đọc, 
  + Mang tính súc tích nhưng vẫn mô tả được bao quát công trình nghiên cứu,
  + Phản ánh được trọng tâm của mục đích và phương pháp tiếp cận của nghiên cứu.
- Đó chính là vai trò  của tên/đề tài của một bài báo nghiên cứu nhằm kéo giữ người đọc, tạo hứng thú để họ tiếp tục khám phá những nội dung tiếp theo.
+Đó chính là vai trò  của tên/đề tài của một bài báo nghiên cứu nhằm kéo giữ người đọc, tạo hứng thú để họ tiếp tục khám phá những nội dung tiếp theo.
 # 2. Viết title lúc nào? Là bước đầu tiên hay sau khi viết Astract, Introduction, etc:
 Tiêu đề làm việc nên được phát triển sớm trong quá trình nghiên cứu vì nó giúp ta nắm được trọng tâm cũng như vấn đề của nghiên cứu. Khi phần introduction và abstract được viết, ta nên xem xét sửa lại tiêu đề nếu cần để phù hợp với hướng nghiên cứu như đã đề ra.
 # 3. Làm thế nào để biết một title là good title?
