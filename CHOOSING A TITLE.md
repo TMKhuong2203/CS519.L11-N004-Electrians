@@ -41,6 +41,7 @@ _ Don’t:
  + Liệu rằng title đã đủ thu hút người đọc chưa, liệu rằng người đọc sẽ đọc tiếp phần abstract sau khi họ đọc xong title?
 # 4. Thực hành: chọn một title từ các hội nghị, tạp chí rankA trong ngành, và nhận xét:
 Title: EfficientDet: Scalable and Efficient Object Detection
+
 _ Nhận xét chủ quan về tiêu đề:
  + Ngắn gọn, chỉ ra được lĩnh vực nghiên cứu và mục tiêu hướng tới của bài báo
  + Các keyword: EfficientDet, Object detection... giúp người đọc dễ dàng tìm kiếm được paper này.
