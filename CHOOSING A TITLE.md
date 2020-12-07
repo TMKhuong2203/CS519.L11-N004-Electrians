@@ -17,8 +17,8 @@ Các nhóm tìm hiểu các vấn đề trên với các gợi ý từ các atta
 Việc viết một bài báo nghiên cứu khoa học yêu cầu người viết phải đáp ứng được sự thu hút, cấu trúc có logic, quan trọng nhất là sự đồng nhất, tính liên kết giữa phần đề tài, abstract và body của bài nghiên cứu. Nói về sự thu hút, điều này nằm ở tính diễn đạt của tên bài hoặc đề tài của bài báo. Nó giống như việc trẻ em thường thích mở những hộp quà có phần bao bọc bên ngoài mang màu sắc tươi sáng, hoặc mọi người sẽ chọn xem những bộ phim có cái tên ấn tượng, bắt mắt. Và tên hoặc đề tài của một bài nghiên cứu cũng thế, bởi nó là phần mà người đọc sẽ nhìn vào đầu tiên. Dù một bài báo có phần trình bày lên tới 2000-3000 từ, nhưng người đọc sẽ phớt lờ ngay nếu phần đề tài trông nhàm chán, không thú vị hoặc dài dòng hoặc không nói lên được trọng tâm của mục đích nghiên cứu. Vì vậy, tính diễn đạt của tên hoặc đề tài bài báo phải đảm bảo ba chức năng sau: 
  + Tạo sự tò mò cho người đọc, 
  + Mang tính súc tích nhưng vẫn mô tả được bao quát công trình nghiên cứu,
- + Phản ánh được trọng tâm của mục đích và phương pháp tiếp cận của nghiên cứu. 
-Đó chính là vai trò  của tên/đề tài của một bài báo nghiên cứu nhằm kéo giữ người đọc, tạo hứng thú để họ tiếp tục khám phá những nội dung tiếp theo.
+ + Phản ánh được trọng tâm của mục đích và phương pháp tiếp cận của nghiên cứu.
+ Đó chính là vai trò  của tên/đề tài của một bài báo nghiên cứu nhằm kéo giữ người đọc, tạo hứng thú để họ tiếp tục khám phá những nội dung tiếp theo.
 # 2. Viết title lúc nào? Là bước đầu tiên hay sau khi viết Astract, Introduction, etc:
 Tiêu đề làm việc nên được phát triển sớm trong quá trình nghiên cứu vì nó giúp ta nắm được trọng tâm cũng như vấn đề của nghiên cứu. Khi phần introduction và abstract được viết, ta nên xem xét sửa lại tiêu đề nếu cần để phù hợp với hướng nghiên cứu như đã đề ra.
 # 3. Làm thế nào để biết một title là good title?
