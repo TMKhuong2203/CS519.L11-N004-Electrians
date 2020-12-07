@@ -25,12 +25,14 @@ Tiêu đề làm việc nên được phát triển sớm trong quá trình nghi
 # 3. Làm thế nào để biết một title là good title?
 Title phải phản ánh mục tiêu và phương pháp tiếp cận của tác giả. Kết quả nghiên cứu hay kết luận không nên có trong title. Keywords quan trọng trong research cần phải có.
 Các Writing tip để biết được một title là good title:
+
 _ Do:
  + Chính xác và đầy đủ thông tin
  + Viết cho người đọc, kể cả những người không có chuyên môn
  + Thu hút người đọc
  + Kết hợp những keywords quan trọng
  + Viết dưới dạng sentence
+
 _ Don’t:
  + Đừng viết title dưới dạng câu hỏi
  + Đừng làm quá hay gây shock người đọc research của mình
@@ -44,6 +46,7 @@ _ Nhận xét chủ quan về tiêu đề:
  + Các keyword: EfficientDet, Object detection... giúp người đọc dễ dàng tìm kiếm được paper này.
  + Do hướng đến mục tinh ngọn, tác giả đã không đề cập chi tiết các phương pháp được sử dụng trong bài ở tiêu đề.
  + Đây là một tiêu đề hay, kích thích ham muốn tìm hiểu của người đọc vì 2 từ Scalable và Efficient.
+
 _ Khi kết nối với Abstract, ta hiểu được lý do tại sao tác giả lựa chọn tiêu đề này:
  + Background: Bài toán nhận diện vật thể trong lĩnh vực Computer Vision, Machine Learning.
  + Aim: Một baseline linh hoạt, hoạt hiệu quả + có khả năng mở rộng
